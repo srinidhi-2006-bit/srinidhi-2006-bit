@@ -4,17 +4,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Student+Developer+%F0%9F%92%BB;Data+Science+Enthusiast+%F0%9F%93%8A;Aspiring+Software+Engineer+%F0%9F%92%BC;AI+%26+ML+Learner+%F0%9F%A4%96;DSA+Mentor+%F0%9F%8E%AF)](https://git.io/typing-svg)
 
-<br>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=srinidhi-2006-bit&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/srinidhi-2006-bit)
-[![GitHub followers](https://img.shields.io/github/followers/srinidhi-2006-bit?style=for-the-badge&color=bb9af7&labelColor=1a1b27&label=FOLLOWERS)](https://github.com/srinidhi-2006-bit?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/srinidhi-2006-bit?style=for-the-badge&color=e0af68&labelColor=1a1b27&label=TOTAL+STARS)](https://github.com/srinidhi-2006-bit)
-
 </div>
 
 ---
 
-## 🌟 About Me
+## 👨‍💻 About Me
 
 ```python
 developer = {
@@ -29,7 +23,7 @@ developer = {
 - 🎓 Pursuing **B.Tech in CSE (Data Science)** — exploring the intersection of data and technology
 - 📊 Passionate **Data Science Enthusiast** with hands-on experience in EDA, ML, and visualization
 - 💻 **Student Developer** building real-world projects with Python, Flask, and web technologies
-- 🧠 Strong problem-solver — **350+ LeetCode**, **1800+ CodeChef**, **310+ GeeksforGeeks** problems solved
+- 🧠 Strong problem-solver — **400+ LeetCode**, **1800+ CodeChef**, **300+ GeeksforGeeks** problems solved
 - 👨‍🏫 Proud to have mentored **110+ students** in Data Structures & Algorithms
 - 🤖 Exploring **AI/ML** — currently working with PyTorch, Transformers, and Diffusion models
 - 🌱 Always learning, always improving — one commit at a time
@@ -56,14 +50,12 @@ developer = {
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🤖 Data Science & ML
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -167,13 +159,13 @@ developer = {
 
 ---
 
-## 🏅 Coding Achievements
+## 🏅 Competitive Programming & Achievements
 
 <div align="center">
 
 | Platform | Achievement |
 |:---:|:---:|
-| ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black) | **4000+ Problems Solved** |
+| ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black) | **400+ Problems Solved** |
 | ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white) | **1800+ Problems · 2⭐ Coder** |
 | ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white) | **300+ Problems Solved** |
 | 👨‍🏫 DSA Mentor | **110+ Students Mentored** |
@@ -188,6 +180,7 @@ developer = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egala-srinidhi-reddy-049966335/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srinidhi-2006-bit)
+[![Codolio](https://img.shields.io/badge/Codolio-7AA2F7?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/egalasrinidhireddy7)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/srinidhi-2006-bit)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/srinidhi_2006)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/srinidhi-2006-bit/)
