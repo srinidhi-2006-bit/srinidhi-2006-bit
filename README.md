@@ -16,7 +16,7 @@ developer = {
     "degree"   : "B.Tech CSE (Data Science)",
     "role"     : "Student Developer & Data Science Enthusiast",
     "passions" : ["Data Science", "AI & ML", "Problem Solving"],
-    "status"   : "Learning, building, and growing every day 🚀"
+    "status"   : "Learning, building, and growing every day "
 }
 ```
 
@@ -103,38 +103,40 @@ developer = {
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/srinidhi-2006-bit/Audio2Art">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=srinidhi-2006-bit&repo=Audio2Art&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7AA2F7&icon_color=BB9AF7" />
-</a>
-<a href="https://github.com/srinidhi-2006-bit/Campus-Fine-Track">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=srinidhi-2006-bit&repo=Campus-Fine-Track&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7AA2F7&icon_color=BB9AF7" />
-</a>
-
-</div>
-
-<br>
-
-### 🎵 Audio2Art — Audio to Image Generation System
-> *Transform sound into stunning visuals using state-of-the-art AI*
-
-| | |
-|---|---|
-| **Stack** | `Python` `Streamlit` `PyTorch` `Diffusers` `Transformers` |
-| **About** | Converts audio features into text prompts, then generates images using Diffusion models |
-| **Domain** | Generative AI · Multimodal Systems · Deep Learning |
-
----
-
-### 🏫 Campus Fine Track — College Fine Management System
-> *Streamlined fine management for modern campus administration*
-
-| | |
-|---|---|
-| **Stack** | `Python` `MongoDB` `Flask` `HTML` `CSS` |
-| **About** | Full-stack web app for tracking, managing, and clearing student fines efficiently |
-| **Domain** | Web Development · NoSQL Databases · Python Backend |
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎵 <a href="https://github.com/srinidhi-2006-bit/Audio2Art">Audio2Art</a></h3>
+      <p><em>Audio to Image Generation System</em></p>
+      <p>Transforms audio features into descriptive text prompts, then generates high-quality images using Stable Diffusion — a full multimodal AI pipeline built end-to-end.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Diffusers-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+      </p>
+      <p><strong>Domain:</strong> Generative AI · Multimodal Systems · Deep Learning</p>
+      <a href="https://github.com/srinidhi-2006-bit/Audio2Art">
+        <img src="https://img.shields.io/badge/View%20Repository-100000?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏫 <a href="https://github.com/srinidhi-2006-bit/Smart-Campus-Fine-Track">Smart Campus Fine Track</a></h3>
+      <p><em>College Fine Management System</em></p>
+      <p>A full-stack web application for tracking, managing, and clearing student fines — built for modern campus administration with a clean UI and efficient MongoDB backend.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      </p>
+      <p><strong>Domain:</strong> Web Development · NoSQL Databases · Python Backend</p>
+      <a href="https://github.com/srinidhi-2006-bit/Smart-Campus-Fine-Track">
+        <img src="https://img.shields.io/badge/View%20Repository-100000?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
