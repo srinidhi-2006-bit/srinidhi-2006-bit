@@ -1,8 +1,8 @@
 <div align="center">
 
-![wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=EGALA%20SRINIDHI%20REDDY&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Science%20Undergraduate%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=54&descSize=16)
+![wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=EGALA%20SRINIDHI%20REDDY&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CSE%20(Data%20Science)%20Undergraduate%20%7C%20Student%20Developer%20%7C%20Data%20Science%20Enthusiast&descAlignY=54&descSize=16)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Data+Science+Enthusiast+%F0%9F%93%8A;Aspiring+Software+Engineer+%F0%9F%92%BC;AI+%26+ML+Learner+%F0%9F%A4%96;DSA+Mentor+%F0%9F%8E%AF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Student+Developer+%F0%9F%92%BB;Data+Science+Enthusiast+%F0%9F%93%8A;Aspiring+Software+Engineer+%F0%9F%92%BC;AI+%26+ML+Learner+%F0%9F%A4%96;DSA+Mentor+%F0%9F%8E%AF)](https://git.io/typing-svg)
 
 <br>
 
@@ -20,19 +20,19 @@
 developer = {
     "name"     : "Egala Srinidhi Reddy",
     "degree"   : "B.Tech CSE (Data Science)",
-    "passions" : ["AI & ML", "Full Stack Dev", "Competitive Programming"],
-    "status"   : "Building real-world projects 🚀",
-    "superpower": "Turning ideas into scalable systems ⚡"
+    "role"     : "Student Developer & Data Science Enthusiast",
+    "passions" : ["Data Science", "AI & ML", "Problem Solving"],
+    "status"   : "Learning, building, and growing every day 🚀"
 }
 ```
 
-- 🎓 **CSE (Data Science)** undergraduate with a strong foundation in computer science fundamentals
-- 💡 Passionate about **Artificial Intelligence**, **Full Stack Development**, and building **scalable systems**
-- 🧠 Strong problem-solver with **350+ LeetCode** and **1800+ CodeChef** problems under my belt
-- 🏗️ Actively building **real-world projects** that bridge AI and practical applications
-- 🎯 Aspiring **Software Engineer** focused on writing clean, efficient, and impactful code
+- 🎓 Pursuing **B.Tech in CSE (Data Science)** — exploring the intersection of data and technology
+- 📊 Passionate **Data Science Enthusiast** with hands-on experience in EDA, ML, and visualization
+- 💻 **Student Developer** building real-world projects with Python, Flask, and web technologies
+- 🧠 Strong problem-solver — **350+ LeetCode**, **1800+ CodeChef**, **310+ GeeksforGeeks** problems solved
 - 👨‍🏫 Proud to have mentored **110+ students** in Data Structures & Algorithms
-- 🌱 Currently diving deeper into **Backend Engineering** and **Open Source**
+- 🤖 Exploring **AI/ML** — currently working with PyTorch, Transformers, and Diffusion models
+- 🌱 Always learning, always improving — one commit at a time
 
 ---
 
@@ -130,7 +130,7 @@ developer = {
 | | |
 |---|---|
 | **Stack** | `Python` `Streamlit` `PyTorch` `Diffusers` `Transformers` |
-| **Highlights** | 🎧 Converts audio features → text prompts → AI-generated images using Diffusion models |
+| **About** | Converts audio features into text prompts, then generates images using Diffusion models |
 | **Domain** | Generative AI · Multimodal Systems · Deep Learning |
 
 ---
@@ -141,8 +141,8 @@ developer = {
 | | |
 |---|---|
 | **Stack** | `Python` `MongoDB` `Flask` `HTML` `CSS` |
-| **Highlights** | 📋 Full-stack web app for tracking, managing, and clearing student fines efficiently |
-| **Domain** | Full Stack Development · NoSQL · Web Applications |
+| **About** | Full-stack web app for tracking, managing, and clearing student fines efficiently |
+| **Domain** | Web Development · NoSQL Databases · Python Backend |
 
 ---
 
@@ -154,12 +154,12 @@ developer = {
 ╔══════════════════════════════════════════════════════╗
 ║            🔥  What I'm Working On  🔥               ║
 ╠══════════════════════════════════════════════════════╣
-║  🌐  Full Stack Development  →  React + Flask        ║
-║  🤖  AI & Machine Learning   →  PyTorch + LLMs       ║
 ║  📊  Data Science            →  EDA + Visualization  ║
-║  🌍  Open Source             →  Contributing & PR    ║
+║  🤖  AI & Machine Learning   →  PyTorch + LLMs       ║
+║  💻  Student Projects        →  Python + Flask       ║
+║  🌍  Open Source             →  Contributing & PRs   ║
 ║  ⚔️   Competitive Programming →  DSA Mastery          ║
-║  🏗️   Backend Engineering     →  APIs + Scalability   ║
+║  🎓  Academics               →  CSE Data Science     ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
@@ -173,7 +173,7 @@ developer = {
 
 | Platform | Achievement |
 |:---:|:---:|
-| ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black) | **400+ Problems Solved** |
+| ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black) | **4000+ Problems Solved** |
 | ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white) | **1800+ Problems · 2⭐ Coder** |
 | ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white) | **300+ Problems Solved** |
 | 👨‍🏫 DSA Mentor | **110+ Students Mentored** |
