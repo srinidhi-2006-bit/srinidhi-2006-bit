@@ -1,57 +1,245 @@
-# Egala Srinidhi Reddy
+<div align="center">
 
-AI & Full Stack Developer · Data Science Undergraduate, CVR College of Engineering
+![wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=EGALA%20SRINIDHI%20REDDY&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CSE%20(Data%20Science)%20Undergraduate%20%7C%20Student%20Developer%20%7C%20Data%20Science%20Enthusiast&descAlignY=54&descSize=16)
 
-[LinkedIn](https://www.linkedin.com/in/egala-srinidhi-reddy-049966335/) · [Portfolio](https://personal-portfolio-website-fa4v.onrender.com) · [Codolio](https://codolio.com/profile/egalasrinidhireddy7) · egalasrinidhireddy7@gmail.com
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=AI+%26+Full+Stack+Developer+%F0%9F%92%BB;Data+Science+Enthusiast+%F0%9F%93%8A;Generative+AI+%26+LLM+Builder+%F0%9F%A4%96;DSA+Mentor+%F0%9F%8E%AF;Open+Source+Contributor+%40+GSSoC+%F0%9F%8C%8D)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## About
+## 👨‍💻 About Me
 
-B.Tech Computer Science (Data Science specialization) student with a 9.31 CGPA, building production AI systems with a focus on LLM integration and prompt engineering. Comfortable across the stack — Python and Flask on the backend, React on the frontend, MongoDB and SQL for data — and currently contributing to open source through GSSoC 2026.
+```python
+developer = {
+    "name"     : "Egala Srinidhi Reddy",
+    "degree"   : "B.Tech CSE (Data Science), CVR College of Engineering",
+    "cgpa"     : "9.31 / 10.00",
+    "role"     : "AI & Full Stack Developer | Data Science Enthusiast",
+    "passions" : ["Generative AI", "LLMs", "Data Science", "Problem Solving"],
+    "status"   : "Building production-ready AI systems, one commit at a time 🚀"
+}
+```
 
-Outside of coursework, I mentor first- and second-year students on data structures and algorithms and have solved 1000+ problems across LeetCode, CodeChef, and GeeksforGeeks combined.
+- 🎓 Pursuing **B.Tech in CSE (Data Science)** at CVR College of Engineering — CGPA **9.31/10.00**
+- 🤖 Currently building **production-ready AI systems** with expertise in **LLM integration, prompt engineering**, and scalable backend APIs
+- 💻 Experienced in building **AI-powered full-stack applications** using Python, React, and MongoDB
+- 🧠 Strong problem-solver — **400+ LeetCode**, **1800+ CodeChef**, **300+ GeeksforGeeks** problems solved
+- 👨‍🏫 Proud to have mentored **110+ students** in Data Structures & Algorithms
+- 🌍 **Open-Source Contributor** at **GSSoC 2026** — 40+ pull requests merged
+- 🌱 Always learning, always improving — one commit at a time
 
-## Projects
+📫 Reach me: **egalasrinidhireddy7@gmail.com**
 
-**[EduGenie AI](https://github.com/srinidhi-2006-bit/EduGenie-AI)** — Generative AI-powered learning assistant with 7+ features (doubt resolution, interview prep, and more), built on React, MongoDB, and Groq-hosted LLMs with JWT auth and speech recognition.
-`Python` `React` `Tailwind CSS` `MongoDB` `Groq` `JWT`
+---
 
-**[Audio2Art](https://github.com/srinidhi-2006-bit/Audio2Art)** — Multimodal pipeline that converts audio into descriptive prompts and generates images from them using Stable Diffusion.
-`Python` `PyTorch` `Diffusers` `Streamlit`
+## 🛠️ Tech Stack
 
-**[Smart Campus Fine Track](https://github.com/srinidhi-2006-bit/Smart-Campus-Fine-Track)** — Full-stack fine management system that replaced a manual campus process with centralized, batch-wise digital tracking.
-`Python` `Flask` `MongoDB` `HTML/CSS`
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Experience
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### ⚙️ Backend & Frameworks
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🤖 AI / ML & Data Science
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LLM](https://img.shields.io/badge/LLMs%20%26%20Prompt%20Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+### 📚 Core CS
+![DSA](https://img.shields.io/badge/DSA-7AA2F7?style=for-the-badge&logo=leetcode&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-E0AF68?style=for-the-badge&logo=postgresql&logoColor=white)
+![OS](https://img.shields.io/badge/Operating%20Systems-9ECE6A?style=for-the-badge&logo=linux&logoColor=white)
+![Computer Networks](https://img.shields.io/badge/Computer%20Networks-BB9AF7?style=for-the-badge&logo=cisco&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=srinidhi-2006-bit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinidhi-2006-bit&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27"/>
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=srinidhi-2006-bit&theme=tokyonight&hide_border=true&background=1a1b27&ring=7AA2F7&fire=E0AF68&currStreakLabel=BB9AF7"/>
+
+<br/><br/>
+
+<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=srinidhi-2006-bit&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🎓 <a href="https://github.com/srinidhi-2006-bit/EduGenie-AI">EduGenie AI</a></h3>
+      <p><em>Generative AI-Powered Student Learning Assistant</em></p>
+      <p>An all-in-one AI learning platform with 7+ features — from doubt resolution to interview prep — powered by LLMs (Groq), secure JWT-based user management, and speech recognition.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=lightning&logoColor=white"/>
+      </p>
+      <p><strong>Domain:</strong> Generative AI · LLM Integration · Full Stack</p>
+      <a href="https://github.com/srinidhi-2006-bit/EduGenie-AI">
+        <img src="https://img.shields.io/badge/View%20Repository-100000?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🎵 <a href="https://github.com/srinidhi-2006-bit/Audio2Art">Audio2Art</a></h3>
+      <p><em>Audio to Image Generation System</em></p>
+      <p>Transforms audio features into descriptive text prompts, then generates high-quality images using Stable Diffusion — a full multimodal AI pipeline built end-to-end.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Diffusers-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+      </p>
+      <p><strong>Domain:</strong> Generative AI · Multimodal Systems · Deep Learning</p>
+      <a href="https://github.com/srinidhi-2006-bit/Audio2Art">
+        <img src="https://img.shields.io/badge/View%20Repository-100000?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🏫 <a href="https://github.com/srinidhi-2006-bit/Smart-Campus-Fine-Track">Smart Campus Fine Track</a></h3>
+      <p><em>College Fine Management System</em></p>
+      <p>A full-stack web application for tracking, managing, and clearing student fines — built for modern campus administration with a clean UI and efficient MongoDB backend.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      </p>
+      <p><strong>Domain:</strong> Web Development · NoSQL Databases · Python Backend</p>
+      <a href="https://github.com/srinidhi-2006-bit/Smart-Campus-Fine-Track">
+        <img src="https://img.shields.io/badge/View%20Repository-100000?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💼 Internships & Experience
 
 | Role | Organization | Duration |
 |---|---|---|
-| Open Source Contributor | GSSoC 2026 — 40+ merged PRs (fixes, features, docs) | May 2026 – Present |
-| Generative AI Intern | Computer Society of India, Hyderabad Chapter | May 2026 – Jun 2026 |
-| Data Analytics Process Automation Intern | Alteryx / EduSkills (AICTE-certified) | Oct 2025 – Dec 2025 |
-| Data Science Intern | Altair / EduSkills (AICTE-certified) | Apr 2025 – Jun 2025 |
+| 🌍 Open-Source Contributor | **GSSoC 2026** — 40+ PRs merged (bug fixes, features, docs) | May 2026 – Present |
+| 🤖 Generative AI Internship | **Computer Society of India (CSI), Hyderabad Chapter** — Built 3+ GenAI prototypes integrating LLM APIs with advanced prompt engineering | May 2026 – Jun 2026 |
+| 📊 Alteryx Data Analytics Process Automation | **EduSkills** (AICTE-certified) — Designed ETL pipelines & automated analytics workflows | Oct 2025 – Dec 2025 |
+| 📈 Altair Data Science Master | **EduSkills** (AICTE-certified) — Data analysis, ML workflow design & visualization | Apr 2025 – Jun 2025 |
 
-## Certifications
+---
 
-Advanced Data Analysis with Generative AI (Coursera) · Introduction to MongoDB (MongoDB) · Database Design & SQL Programming (Oracle) · Data Analyst Learning Path (LinkedIn Learning) · Programming in Java, NPTEL (IIT Kharagpur) · Smart Coder Certification (Smart Interviews)
+## 📜 Certifications
 
-## Skills
+- 🎓 **Advanced Data Analysis with Generative AI** — Coursera *(Dec 2025)*
+- 🎓 **Introduction to MongoDB** — MongoDB *(Nov 2025)*
+- 🎓 **Database Design, Database Programming with SQL** — Oracle *(Dec 2024)*
+- 🎓 **Data Analyst Learning Path** — LinkedIn Learning *(Mar 2026)*
+- 🎓 **Programming in Java** — NPTEL, IIT Kharagpur (12 weeks) *(Jan 2025 – Apr 2025)*
+- 🎓 **Smart Coder Certification** — Smart Interviews *(Feb 2025 – Feb 2026)*
 
-**Languages** — Python, Java, JavaScript, C, SQL
-**Frontend** — React, HTML5, CSS3, Bootstrap, Tailwind CSS
-**Backend** — Flask, Node.js, Express, Spring Boot, Hibernate, REST APIs, JWT
-**Data / AI** — PyTorch, Transformers, Pandas, NumPy, Matplotlib, Prompt Engineering, LLM Integration
-**Databases** — MongoDB, MySQL, PostgreSQL
-**Tools** — Git, Postman, Power BI, Excel, Jupyter
+---
 
-## GitHub Stats
+## 🎯 Current Focus
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=srinidhi-2006-bit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinidhi-2006-bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
+
+```
+┌───────────────────────────────────────────────────┐
+│                What I'm Working On                │
+├───────────────────────────────────────────────────┤
+│  Generative AI & LLMs     → Prompt Engineering    │
+│  AI-Powered Apps          → Python + React        │
+│  Data Science             → EDA + Visualization   │
+│  Open Source              → GSSoC 2026            │
+│  Competitive Programming  → DSA Mastery           │
+│  Academics                → CSE Data Science      │
+└───────────────────────────────────────────────────┘
+```
+
 </div>
 
-## Connect
+---
 
-[GitHub](https://github.com/srinidhi-2006-bit) · [LinkedIn](https://www.linkedin.com/in/egala-srinidhi-reddy-049966335/) · [LeetCode](https://leetcode.com/u/nidhi_123-4/) · [CodeChef](https://www.codechef.com/users/flash_zeal_29) · [GeeksforGeeks](https://www.geeksforgeeks.org/profile/egalasrinivl3b)
+## 🏅 Competitive Programming & Achievements
+
+<div align="center">
+
+| Platform | Achievement |
+|:---:|:---:|
+| ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black) | **400+ Problems Solved** |
+| ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white) | **1800+ Problems · 2⭐ Coder** |
+| ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white) | **300+ Problems Solved** |
+| 👨‍🏫 DSA Mentor | **110+ Students Mentored** |
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egala-srinidhi-reddy-049966335/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srinidhi-2006-bit)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-portfolio-website-fa4v.onrender.com)
+[![Codolio](https://img.shields.io/badge/Codolio-7AA2F7?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/egalasrinidhireddy7)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/nidhi_123-4/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/flash_zeal_29)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/egalasrinivl3b)
+
+</div>
+
+---
+
+<div align="center">
+
+![wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+
+### 💬 *"First, solve the problem. Then, write the code."* — John Johnson
+
+<sub>✨ Crafted with passion by **Egala Srinidhi Reddy** · Always learning, always building ✨</sub>
+
+</div>
